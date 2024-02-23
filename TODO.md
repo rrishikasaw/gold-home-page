@@ -1,0 +1,1 @@
+- check if there is any a tag and replace it with <NuxtLink>

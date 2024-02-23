@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+@import url('https://unpkg.com/primeflex@^3/primeflex.css');
+
+:root {
+	--theme: #A58F65;
+	--theme-lighten: #fce0e9;
+	--theme-lighten-2: #fcd9e5;
+}
+.text-theme{
+	color:var(--theme)
+}
+
+/* body,
+html {
+	margin: 0;
+	padding: 0;
+	font-family: 'Roboto', sans-serif;
+}
+
+*::selection {
+	color: white;
+	background-color: var(--theme);
+}
+
+.bg-theme {
+	background-color: var(--theme);
+}
+
+.text-theme {
+	color: var(--theme);
+}
+
+.bg-theme-lighten {
+	background-color: var(--theme-lighten);
+}
+
+.text-theme-lighten {
+	color: var(--theme-lighten);
+}
+
+.bg-theme-lighten-2 {
+	background-color: var(--theme-lighten-2);
+}
+
+a {
+	text-decoration: none;
+	color: var(--theme);
+}
+
+a:hover {
+	text-decoration: underline;
+	color: var(--theme);
+} */

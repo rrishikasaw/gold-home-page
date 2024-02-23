@@ -1,0 +1,28 @@
+{
+	"name": "nuxt-express-template",
+	"private": true,
+	"scripts": {
+		"build": "nuxt build",
+		"dev": "nuxt dev",
+		"generate": "nuxt generate",
+		"preview": "nuxt preview",
+		"postinstall": "nuxt prepare"
+	},
+	"devDependencies": {
+		"@mdi/font": "^7.2.96",
+		"@nuxt/devtools": "^0.8.0",
+		"@types/node": "^20.5.1",
+		"nuxt": "^3.6.5",
+		"nuxt-icon": "^0.5.0",
+		"sass": "^1.66.1",
+		"vuetify": "^3.3.13"
+	},
+	"overrides": {
+		"vue": "latest"
+	},
+	"dependencies": {
+		"@pinia/nuxt": "^0.4.11",
+		"moment": "^2.30.1",
+		"pinia": "^2.1.6"
+	}
+}
