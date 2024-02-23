@@ -55,7 +55,7 @@
 
 <style scoped>
 .section4 {
-  background-image: url('../image/section4/banner.png');
+  background-image: url('~/assets/image/section4/banner.png');
   /* height: 600px; */
   box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.8);
   min-height: 500px;

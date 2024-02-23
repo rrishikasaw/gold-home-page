@@ -231,32 +231,61 @@
 
   <section class="section7 bg-black py-16">
     <h5 class="text-center font-bold">Press Release</h5>
-    <p class="text-center" >Do Not let the opportunity slip away: ensure you stay well-informed</p>
+    <p class="text-center">
+      Do Not let the opportunity slip away: ensure you stay well-informed
+    </p>
 
     <v-row justify="center" align="center">
       <v-col cols="12" md="3">
         <v-card class="bg-grey-darken-4 pa-3">
-          <img src="~/assets/image/section7/image1.webp" alt="" class=" h-12 w-full d-block mx-auto" >
+          <img
+            src="~/assets/image/section7/image1.webp"
+            alt=""
+            class="h-12 w-full d-block mx-auto"
+          />
           <p class="text-theme mt-3 mb-1">Jan 22, 2023</p>
-          <p class="fz-15 mb-1 fw-semibold">Gold price rises to record high: $1944,71 for troy</p>
-          <p class="fz-16 text-grey">In publishing and graphic degine, Lorem ispum is a placeholder text commonly used to demonstrate the visual from</p>
+          <p class="fz-15 mb-1 fw-semibold">
+            Gold price rises to record high: $1944,71 for troy
+          </p>
+          <p class="fz-16 text-grey">
+            In publishing and graphic degine, Lorem ispum is a placeholder text
+            commonly used to demonstrate the visual from
+          </p>
         </v-card>
       </v-col>
       <v-col cols="12" md="3">
         <v-card class="bg-grey-darken-4 pa-3">
-          <img src="~/assets/image/section7/image2.jpg" alt="" class=" h-12 w-full d-block mx-auto" >
+          <img
+            src="~/assets/image/section7/image2.jpg"
+            alt=""
+            class="h-12 w-full d-block mx-auto"
+          />
           <p class="text-theme mt-3 mb-1">Jan 22, 2023</p>
-          <p class="fz-15 mb-1 fw-semibold">Gold price rises to record high: $1944,71 for troy</p>
-          <p class="fz-16 text-grey">In publishing and graphic degine, Lorem ispum is a placeholder text commonly used to demonstrate the visual from</p>
+          <p class="fz-15 mb-1 fw-semibold">
+            Gold price rises to record high: $1944,71 for troy
+          </p>
+          <p class="fz-16 text-grey">
+            In publishing and graphic degine, Lorem ispum is a placeholder text
+            commonly used to demonstrate the visual from
+          </p>
         </v-card>
       </v-col>
 
       <v-col cols="12" md="3">
         <v-card class="bg-grey-darken-4 pa-3">
-          <img src="~/assets/image/section7/image4.jpg" alt="" class=" h-12 w-full d-block mx-auto" >
+          <img
+            src="~/assets/image/section7/image4.jpg"
+            alt=""
+            class="h-12 w-full d-block mx-auto"
+          />
           <p class="text-theme mt-3 mb-1">Jan 22, 2023</p>
-          <p class="fz-15 mb-1 fw-semibold">Gold price rises to record high: $1944,71 for troy</p>
-          <p class="fz-16 text-grey">In publishing and graphic degine, Lorem ispum is a placeholder text commonly used to demonstrate the visual from</p>
+          <p class="fz-15 mb-1 fw-semibold">
+            Gold price rises to record high: $1944,71 for troy
+          </p>
+          <p class="fz-16 text-grey">
+            In publishing and graphic degine, Lorem ispum is a placeholder text
+            commonly used to demonstrate the visual from
+          </p>
         </v-card>
       </v-col>
     </v-row>
@@ -305,7 +334,7 @@
   max-width: 300px;
 }
 
-.section7-card{
-min-width: 300px;
+.section7-card {
+  min-width: 300px;
 }
 </style>
